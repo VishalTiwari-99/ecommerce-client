@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-This project is live here: [https://ecommerce-reactapp-wishstore.netlify.app]
+### Server of this website is present here: [https://github.com/VishalTiwari-99/strapi-ecommerce-api]
